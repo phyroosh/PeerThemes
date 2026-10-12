@@ -1,7 +1,7 @@
 {
   "name": "peerthemes",
-  "version": "1.0.0",
-  "description": "10 Production-Ready React & SVG Design Systems and Themes for Educational Video Motion Graphics powered by Remotion",
+  "version": "1.1.0",
+  "description": "20 Production-Ready React & SVG Design Systems and Themes for Educational Video Motion Graphics powered by Remotion",
   "main": "src/index.ts",
   "scripts": {
     "dev": "remotion preview src/index.ts",
@@ -16,7 +16,17 @@
     "still:07": "remotion still src/index.ts Theme-07-PhosphorTerminal previews/theme_07_phosphor_terminal.png",
     "still:08": "remotion still src/index.ts Theme-08-JapaneseUkiyoE previews/theme_08_japanese_ukiyoe.png",
     "still:09": "remotion still src/index.ts Theme-09-EditorialCollage previews/theme_09_editorial_collage.png",
-    "still:10": "remotion still src/index.ts Theme-10-BioluminescentDarkfield previews/theme_10_bioluminescent_darkfield.png"
+    "still:10": "remotion still src/index.ts Theme-10-BioluminescentDarkfield previews/theme_10_bioluminescent_darkfield.png",
+    "still:11": "remotion still src/index.ts Theme-11-SynthwaveOutrun previews/theme_11_synthwave_outrun.png",
+    "still:12": "remotion still src/index.ts Theme-12-CharcoalBrutalism previews/theme_12_charcoal_brutalism.png",
+    "still:13": "remotion still src/index.ts Theme-13-BotanicalHerbarium previews/theme_13_botanical_herbarium.png",
+    "still:14": "remotion still src/index.ts Theme-14-NoirDossier previews/theme_14_noir_dossier.png",
+    "still:15": "remotion still src/index.ts Theme-15-WarmJapandi previews/theme_15_warm_japandi.png",
+    "still:16": "remotion still src/index.ts Theme-16-SteampunkHorology previews/theme_16_steampunk_horology.png",
+    "still:17": "remotion still src/index.ts Theme-17-MemphisMilano previews/theme_17_memphis_milano.png",
+    "still:18": "remotion still src/index.ts Theme-18-GothicAlchemy previews/theme_18_gothic_alchemy.png",
+    "still:19": "remotion still src/index.ts Theme-19-SovietConstructivism previews/theme_19_soviet_constructivism.png",
+    "still:20": "remotion still src/index.ts Theme-20-RetroWindows95 previews/theme_20_retro_windows95.png"
   },
   "keywords": [
     "remotion",
