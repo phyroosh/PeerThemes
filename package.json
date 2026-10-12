@@ -1,0 +1,44 @@
+{
+  "name": "peerthemes",
+  "version": "1.0.0",
+  "description": "10 Production-Ready React & SVG Design Systems and Themes for Educational Video Motion Graphics powered by Remotion",
+  "main": "src/index.ts",
+  "scripts": {
+    "dev": "remotion preview src/index.ts",
+    "studio": "remotion preview src/index.ts",
+    "build": "tsc --noEmit",
+    "still:01": "remotion still src/index.ts Theme-01-CyberHUD previews/theme_01_cyber_hud.png",
+    "still:02": "remotion still src/index.ts Theme-02-VintageBlueprint previews/theme_02_vintage_blueprint.png",
+    "still:03": "remotion still src/index.ts Theme-03-SwissBauhaus previews/theme_03_swiss_bauhaus.png",
+    "still:04": "remotion still src/index.ts Theme-04-RenaissanceCodex previews/theme_04_renaissance_codex.png",
+    "still:05": "remotion still src/index.ts Theme-05-CosmicGlass previews/theme_05_cosmic_glass.png",
+    "still:06": "remotion still src/index.ts Theme-06-IsometricClay previews/theme_06_isometric_clay.png",
+    "still:07": "remotion still src/index.ts Theme-07-PhosphorTerminal previews/theme_07_phosphor_terminal.png",
+    "still:08": "remotion still src/index.ts Theme-08-JapaneseUkiyoE previews/theme_08_japanese_ukiyoe.png",
+    "still:09": "remotion still src/index.ts Theme-09-EditorialCollage previews/theme_09_editorial_collage.png",
+    "still:10": "remotion still src/index.ts Theme-10-BioluminescentDarkfield previews/theme_10_bioluminescent_darkfield.png"
+  },
+  "keywords": [
+    "remotion",
+    "motion-graphics",
+    "themes",
+    "design-systems",
+    "educational-video",
+    "react-svg",
+    "youtube-shorts",
+    "tiktok"
+  ],
+  "author": "phyroosh",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "remotion": "^4.0.200"
+  },
+  "devDependencies": {
+    "@remotion/cli": "^4.0.200",
+    "@types/react": "^18.2.0",
+    "@types/react-dom": "^18.2.0",
+    "typescript": "^5.3.3"
+  }
+}
